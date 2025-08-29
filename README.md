@@ -10,7 +10,7 @@
 ## Quick Hindi instructions (sadhaaran aur seedha)
 
 1. **Python install karo** — Python 3.8 ya upar. (https://www.python.org se install karo)
-2. Zip file extract karo.
+2. Clone karo.
 3. Command Prompt khol ke folder me jao (jahan `voice_assistant.py` hai).
 4. (Optional but recommended) Virtual environment banao:
    ```
